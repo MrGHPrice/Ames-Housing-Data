@@ -2,8 +2,6 @@
 
 This project uses the [Ames housing data recently made available on kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
-<img src="http://imgur.com/l5NasQj.png" style="float: left; margin: 25px 15px 0px 0px; height: 25px">
-
 ## 1. Estimating the value of homes from fixed characteristics.
 
 1. Develop an algorithm to reliably estimate the value of residential houses based on *fixed* characteristics.
@@ -36,8 +34,6 @@ and generally anything you deem can be modified without having to undergo major 
 - Train a model on pre-2010 data and evaluate its performance on the 2010 houses.
 - Characterize your model. How well does it perform? What are the best estimates of price?
 
-<img src="http://imgur.com/l5NasQj.png" style="float: left; margin: 25px 15px 0px 0px; height: 25px">
-
 ## 2. Determine any value of *changeable* property characteristics unexplained by the *fixed* ones.
 
 ---
@@ -58,8 +54,6 @@ The residuals from the first model (training and testing) represent the variance
 - Investigate how much of the variance in price remaining is explained by these features.
 - Do I trust my model?
 
-
-<img src="http://imgur.com/GCAf1UX.png" style="float: left; margin: 25px 15px 0px 0px; height: 25px">
 
 ## 3. What property characteristics predict an "abnormal" sale?
 
